@@ -1,0 +1,33 @@
+{
+	"name": "node-rncryptor",
+	"version": "0.0.0",
+	"description": "My awesome module",
+	"license": "MIT",
+	"repository": "YOUR-GITHUB-USERNAME/unicorn-fun",
+	"author": {
+		"name": "YOUR NAME",
+		"email": "YOUR EMAIL",
+		"url": "YOUR WEBSITE"
+	},
+	"type": "module",
+	"exports": "./index.js",
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "jest",
+		"start": "node ./index.js"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"RNCryptor",
+		"nodejs",
+		"aes-256-cbc"
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"jest": "^27.0.4"
+	}
+}
