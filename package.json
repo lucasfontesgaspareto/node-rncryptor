@@ -1,6 +1,6 @@
 {
 	"name": "node-rncryptor",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A simples RNCrytpor implementation for NodeJS with native crypto module",
 	"license": "MIT",
 	"repository": "lucasfontesgaspareto/node-rncryptor",
