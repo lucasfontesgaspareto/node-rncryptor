@@ -1,6 +1,6 @@
 # node-rncryptor
 
-> My awesome module
+> A simples RNCrytpor implementation for NodeJS with native crypto module
 
 ## Install
 
