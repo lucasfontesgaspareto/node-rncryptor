@@ -19,7 +19,9 @@
 		"start": "node ./index.js"
 	},
 	"files": [
-		"index.js"
+		"index.js",
+		"index.cjs",
+		"index.mjs"
 	],
 	"keywords": [
 		"RNCryptor",
